@@ -3,6 +3,8 @@
 **Todo:**
 - [x] Základ
 - [x] Edit create char
+- [x] Admin tags
+- [x] Admin users
 - [ ] Inventář
 - [ ] Notifikace
 - [ ] Reporty
