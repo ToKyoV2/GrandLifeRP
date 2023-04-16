@@ -28,15 +28,14 @@ ___________
 - [x] Bodycam
 ___________
 - [x] Zámky
-- [ ] LSPD
+- [x] LSPD
 - [ ] EMS
 - [ ] LSSD
 ___________
 - [ ] Animace
-- [ ] RP chat
-- [ ] Chat
+- [x] RP chat
+- [x] Chat
 - [ ] Drogy
 - [ ] Pračka peněz
 - [ ] Logy
-- [ ] Joby
 - [ ] Discord Rich Presence
