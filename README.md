@@ -9,6 +9,7 @@
 - [x] Inventář
 - [x] Notifikace
 - [x] Interaktivní oko
+- [x] STN_RP_BASE
 ___________
 - [x] Zámky
 - [ ] LSPD
