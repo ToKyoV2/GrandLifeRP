@@ -8,10 +8,16 @@
 - [x] Reporty
 - [x] Inventář
 - [x] Notifikace
+- [x] Interaktivní oko
+___________
+- [x] Zámky
+- [ ] LSPD
+- [ ] EMS
+- [ ] LSSD
+___________
 
 - [ ] Drogy
 - [ ] Pračka peněz
-- [ ] Placené scripts
 - [ ] Logy
 - [ ] Joby
 - [ ] Discord Rich Presence
