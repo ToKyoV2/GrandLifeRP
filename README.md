@@ -10,6 +10,14 @@
 - [x] Notifikace
 - [x] Interaktivní oko
 - [x] STN_RP_BASE
+- [x] xsounds
+______________
+- [x] DJ pulty
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 
+______________
 ___________
 - [x] Zámky
 - [ ] LSPD
