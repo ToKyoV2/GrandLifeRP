@@ -11,7 +11,10 @@
 - [x] Interaktivní oko
 - [x] STN_RP_BASE
 - [x] xsounds
-- [ ] Systém na emergency vozidla
+- [x] Systém na emergency vozidla
+- [x] Překopat jméno serveru v server listu
+- [x] Překopat poznámky v server listu
+- [x] Pŕekopat Barvičky
 ______________
 - [x] DJ pulty
 - [ ] 
