@@ -28,6 +28,18 @@ ___________
 - [x] Mdt
 - [x] Pager
 - [x] Bodycam
+- [x] Job
+- [x] Sklad
+- [x] Obchod
+- [x] Interiér
+___________
+  **EMS**
+- [ ] Mdt
+- [x] Pager
+- [ ] Job
+- [ ] Sklad
+- [ ] Obchod
+- [x] Interiér
 ___________
 - [x] Zámky
 - [x] LSPD
