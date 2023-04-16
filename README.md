@@ -15,6 +15,7 @@
 - [x] Překopat jméno serveru v server listu
 - [x] Překopat poznámky v server listu
 - [x] Pŕekopat Barvičky
+- [x] GameBuild 2802
 ______________
 - [x] DJ pulty
 - [ ] 
