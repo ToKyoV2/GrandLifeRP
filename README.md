@@ -11,12 +11,18 @@
 - [x] Interaktivní oko
 - [x] STN_RP_BASE
 - [x] xsounds
+- [ ] Systém na emergency vozidla
 ______________
 - [x] DJ pulty
 - [ ] 
 - [ ] 
 - [ ] 
 - [ ] 
+___________
+  **PD**
+- [x] Mdt
+- [x] Pager
+- [x] Bodycam
 ___________
 - [x] Zámky
 - [ ] LSPD
