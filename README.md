@@ -32,7 +32,9 @@ ___________
 - [ ] EMS
 - [ ] LSSD
 ___________
-
+- [ ] Animace
+- [ ] RP chat
+- [ ] Chat
 - [ ] Drogy
 - [ ] Pračka peněz
 - [ ] Logy
