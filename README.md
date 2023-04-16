@@ -5,9 +5,10 @@
 - [x] Edit create char
 - [x] Admin tags
 - [x] Admin users
-- [ ] Inventář
-- [ ] Notifikace
-- [ ] Reporty
+- [x] Reporty
+- [x] Inventář
+- [x] Notifikace
+
 - [ ] Drogy
 - [ ] Pračka peněz
 - [ ] Placené scripts
