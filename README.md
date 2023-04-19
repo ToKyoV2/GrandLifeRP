@@ -1,4 +1,4 @@
-# PrometheusRP
+# Grand Life RolePlay
 
 **Todo:**
 - [x] Základ
@@ -16,6 +16,7 @@
 - [x] Překopat poznámky v server listu
 - [x] Pŕekopat Barvičky
 - [x] GameBuild 2802
+- [x] Garáže
 - [ ] LoadingScreen
 ______________
 - [x] DJ pulty
